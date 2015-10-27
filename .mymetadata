@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="gpAsmx"
+  id="myeclipse.1444717837766"
+  context-root="/gpAsmx"
+  j2ee-spec="5.0"
+  archive="gpAsmx.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
